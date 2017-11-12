@@ -6,7 +6,11 @@ public class aa {
 		// TODO Auto-generated method stub
 System.out.println("hi:::::::::::::");
 System.out.println("hi:::::::::::::");
+<<<<<<< HEAD
 System.out.println("hi:::::::::::::");
+=======
+System.out.printl("drtyhtr");
+>>>>>>> branch 'master' of https://github.com/avdambale/14.40repBrows.git
 
 	}
 
